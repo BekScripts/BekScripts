@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aziz Wazir
+
 
 <!--
 **BekScripts/BekScripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
